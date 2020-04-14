@@ -1,2 +1,1 @@
-4-13-2020 - requests
- - Requests will allow you to send HTTP/1.1 requests using Python
+requests~=2.23.0
